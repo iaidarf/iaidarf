@@ -1,9 +1,11 @@
 ## Привет, меня зовут Айдар! :wave:
 Интересно все, что связано с **data** (сбор, обработка, анализ, визуализация).
 
-
 ### Скиллы
-**Python** (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn и пр.) • **ETL/DWH** (Pentaho) • **SQL** • **Machine Learning** • **PowerBI** • **Основы статистики**
+**Python**: для автоматизации обработки и подготовки данных
+**SQL**: select, join, group by, подзапросы, оконные функции, cte
+**PowerBI**: от подключения к источникам данных и построения модели до разработки интерактивных отчетов и их публикации. DAX, Power Query.
+**MS Excel/Google Sheets**: продвинутый уровень использования функций, сводных таблиц и пр.
 
 ### Курсы и сертификаты
 <a href="https://github.com/iaidarf/Certificates/blob/main/certificate_netology_DS.pdf">“Data Science: рекомендательные системы” в Нетологии</a> •
