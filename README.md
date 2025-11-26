@@ -9,7 +9,7 @@
 
 ### Курсы и сертификаты
 <a href="https://github.com/iaidarf/Certificates/blob/main/certificate_netology_DS.pdf">“Data Science: рекомендательные системы” в Нетологии</a> •
-<a href="https://github.com/iaidarf/Certificates/blob/main/netology_diplom_DS.pdf">Диплом о профессиональной переподготовке "Data Science: рекомендательные системы"</a> •
+<a href="https://github.com/iaidarf/Certificates/blob/main/Netology_diplom_DS.pdf">Диплом о профессиональной переподготовке "Data Science: рекомендательные системы"</a> •
 <a href="https://github.com/iaidarf/Certificates">Курсы на stepik.org</a>
 
 ### Резюме
