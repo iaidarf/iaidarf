@@ -12,7 +12,7 @@
 <a href="https://github.com/iaidarf/Certificates">Курсы на stepik.org</a>
 
 ### Резюме
-<a href="https://myresume.ru/resume/mRqOHLXLICR"/>Моё резюме</a>
+<a href="https://disk.yandex.ru/i/LCS40O5G5Zfp8A"/>Моё резюме</a>
 
 <hr>
 <div align="center"> 
