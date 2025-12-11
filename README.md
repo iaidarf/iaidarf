@@ -22,10 +22,7 @@
 
 
 ## Курсы и сертификаты
-Знакомство с аналитикой данных начинал с "Основ статистики" на <a href="https://stepik.org">stepik.org</a>, там же прошел и периодически прохожу другие курсы: <a href="https://github.com/iaidarf/Certificates">Сертификаты от stepik.org</a> \
-Получил диплом по программе обучения <a href="https://github.com/iaidarf/Certificates/blob/main/Netology_diplom_DS.pdf">"Data Science: рекомендательные системы" </a> в Нетологии. \
-Прохожу обучение по программе "Симулятор аналитика" в <a href="[karpov.courses](https://karpov.courses
-)"> karpov.courses</a>.
+Знакомство с аналитикой данных начинал с "Основ статистики" на <a href="https://stepik.org">stepik.org</a>. Нравится, что в этой сфере всегда есть возможности для развития. Активно занимаюсь самообразованием и повышаю квалификацию на специализированных курсах. <a href="https://github.com/iaidarf/Certificates">Сертификаты</a> \
 <br><br>
 
 ## Контакты
